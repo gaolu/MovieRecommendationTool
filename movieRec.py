@@ -18,6 +18,10 @@ Email: gaolu.adam@gmail.com
 Date of Last Modified: 04-29-2013
 '''
 
+'''
+TEST DATABRICKS INTEGRATION WITH GIT
+'''
+
 # import moduels
 import math
 import random
